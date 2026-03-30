@@ -67,7 +67,6 @@ Designed an AI-powered shuttle tracking and booking platform with real-time visu
 
 Email: swapnilchavan211101@gmail.com  
 LinkedIn: https://www.linkedin.com/in/swapnil-chavan-30033015a/  
-GitHub: https://github.com/your-username  
 
 ---
 
